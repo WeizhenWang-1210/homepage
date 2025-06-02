@@ -5,8 +5,8 @@ permalink: /
 subtitle: Zhou Lab at UCLA, Henry Samueli School of Engineering
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: /avatar/crop.JPG
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
@@ -22,17 +22,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: False
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 I'm a second-year M.S.C.S student at UCLA. Before that, I obtained B.S. in computer science with a minor in mathematics at UCLA, graduating with Cum Laude standing. 
 
-I am applying for Ph.D. program for Fall 2025 season. 
+I am applying for Ph.D. program for Fall 2025 season. My research interests include embodied AI using foundation models and generative modeling. I have experience in end-to-end training of Vision-Language-Models as well as diffusion models, and I have also managed large-scale data. My most proficient programming language is Python, but I have made some frontend projects using JavaScript for research purpose. 
 
-I enjoy skiing for my winter times. Check out my seasonal ski maps if you are interested.
 
-If you are interested in research collaboration, feel free to contact me via email.
+For leisure time, I am frentic about skiing, spending almost all my winter breaks in ski resorts for the past four years. Check out my seasonal ski maps (coming) if you are interested. I'm also into LEGO building and Gunpla building.
+
+
 
 
 
